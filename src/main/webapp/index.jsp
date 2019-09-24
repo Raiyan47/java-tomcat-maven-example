@@ -4,7 +4,7 @@
 
 <h3>WelCome to Jenkins! We are working on Continous Delivery !!!!!!!!</h3>
 
-<p> This is change is to verify the Stage vs Production</p>
+<p> We have developed 1st pipeline through free style project and deploy the build in production through manual trigger .</p>
 
 </body>
 </html>
